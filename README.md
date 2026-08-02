@@ -198,18 +198,3 @@ mvn spring-boot:run
 ```
 
 ---
-
-## Author
-
-### Harsh Saini
-
-Java Backend Developer
-
-* GitHub: [https://github.com/saini-harsh15](https://github.com/saini-harsh15)
-* LinkedIn: [https://www.linkedin.com/in/harshsaini15/](https://www.linkedin.com/in/harshsaini15/)
-
----
-
-## Status
-
-Project under active development.
