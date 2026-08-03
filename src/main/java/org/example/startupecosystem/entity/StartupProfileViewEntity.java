@@ -7,7 +7,6 @@ import java.time.LocalDateTime;
 @Table(name = "startup_profile_views",
         indexes = {
                 @Index(name="idx_startup_view_time", columnList="startupId, viewedAt DESC"),
-                @Index(name="idx_unique_daily_view", columnList="startupId, investorId, viewDateKey", unique=false)
         })
 public class StartupProfileViewEntity {
 
